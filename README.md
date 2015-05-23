@@ -6,3 +6,7 @@
 - real man must use vim.
 - real man must play fail card even if he's a resistance.
 - real man must buys penny stocks.
+
+
+
+welcome any pull request.
