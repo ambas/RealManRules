@@ -10,6 +10,7 @@
 - real man must set 123456 as his default password.
 - real man must say nothing but +1.
 - real man must drink a shot of B-52 before interviewing a candidate.
-- real man must tell his colleagues about his vacation suddenly before leaving.
+- real man must tell his colleagues about his vacation suddenly before leaving. 
+- real man must have a vacation abroad not during weekend but weekday.:airplane:
 
 welcome any pull request.
