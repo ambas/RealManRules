@@ -12,5 +12,6 @@
 - real man must drink a shot of B-52 before interviewing a candidate.
 - real man must tell his colleagues about his vacation suddenly before leaving. 
 - real man must have a vacation abroad not during weekend but weekday.:airplane:
+- real man must use his Nintendo Switch as a paperweight.
 
 welcome any pull request.
